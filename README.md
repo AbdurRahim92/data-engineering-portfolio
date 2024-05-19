@@ -23,3 +23,19 @@ This repository serves as a comprehensive showcase of my data engineering capabi
 **Technologies**: DynamoDB Stream, Event Bridge Pipe, Kinesis Stream, Kinesis Firehose, Lambda, S3, Glue Catalog, Athena
 
 For more details, please refer to the [Project 1 README](project1/README.md).
+
+## Technologies Used
+
+- **Programming Languages**: Python, SQL
+- **Data Warehousing**: 
+- **Data Pipelines**: Apache Airflow, 
+- **Cloud Services**: AWS
+- **Data Visualization**: Tableau, Quicksight, PowerBI
+- **Databases**: PostgreSQL, MSSQL, MySQl
+- **Others**: Docker, Git
+
+## Contact
+
+If you have any questions or would like to get in touch, please feel free to reach out to me via [abdur_rahim_nordin@yahoo.com](mailto:abdur_rahim_nordin@yahoo.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abdur-rahim-nordin/).
+
+Thank you for visiting my portfolio!
