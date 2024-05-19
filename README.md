@@ -43,17 +43,15 @@ For more details, please refer to the [Project 1 README](project1/README.md).
 
 I have earned the following certifications to enhance my data engineering skills:
 
-4. **[Ultimate AWS Certified Cloud Practitioner CLF-C02]
-   - [Certification of Completion](certifications/ultimate_aws_certified_cloud_practitioner_clf_C02.png)** - Issued by [Udemy](https://seek.udemy.com/course/data-governance-fundamentals/) - *Completed on Nov 1 2023*
+4. **[Ultimate AWS Certified Cloud Practitioner CLF-C02]**
+   - [Certification of Completion](certifications/ultimate_aws_certified_cloud_practitioner_clf_C02.png) - Issued by [Udemy](https://seek.udemy.com/course/data-governance-fundamentals/) - *Completed on Nov 1 2023*
    - [Badge Link](https://www.credly.com/badges/28f76c44-cbc6-447a-987d-ad32b2ce8817/public_url)
-3. **[Data Governance Fundamentals](certifications/data_governance_fundamentals.png)** - Issued by [Udemy](https://seek.udemy.com/course/data-governance-fundamentals/) - *Completed on May 27 2023*
-2. **[Mastering Data Modeling Fundamentals](certifications/mastering_data_modeling_fundamentals.png)** - Issued by [Udemy](https://seek.udemy.com/course/mastering-data-modeling-fundamentals/) - *Completed on March 5 2021*
-1. **[Beginner's Guide to Data & Data Analytics, by SF Data School](certifications/beginners_guide_to_data_and_data_analytics_by_sf_data_school.png)** - Issued by [Udemy](https://seek.udemy.com/course/learndata/) - *Completed on February 4 2021*
-
-
-1. **Data Engineering with Python**
-   - [Certification of Completion](certifications/data_engineering_with_python.pdf) - Issued by [Datacamp](https://www.datacamp.com) - *Completed on April 2023*
-   - [Badge Link](https://www.datacamp.com/your-badge-link)
+3. **[Data Governance Fundamentals]**
+   - [Certification of Completion](certifications/data_governance_fundamentals.png) - Issued by [Udemy](https://seek.udemy.com/course/data-governance-fundamentals/) - *Completed on May 27 2023*
+2. **[Mastering Data Modeling Fundamentals]**
+   - (certifications/mastering_data_modeling_fundamentals.png) - Issued by [Udemy](https://seek.udemy.com/course/mastering-data-modeling-fundamentals/) - *Completed on March 5 2021*
+1. **[Beginner's Guide to Data & Data Analytics, by SF Data School]**
+   - (certifications/beginners_guide_to_data_and_data_analytics_by_sf_data_school.png) - Issued by [Udemy](https://seek.udemy.com/course/learndata/) - *Completed on February 4 2021*
 
 ### Soft Skills
 
