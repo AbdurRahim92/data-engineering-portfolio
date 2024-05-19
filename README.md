@@ -49,9 +49,9 @@ I have earned the following certifications to enhance my data engineering skills
 3. **[Data Governance Fundamentals]**
    - [Certification of Completion](certifications/data_governance_fundamentals.png) - Issued by [Udemy](https://seek.udemy.com/course/data-governance-fundamentals/) - *Completed on May 27 2023*
 2. **[Mastering Data Modeling Fundamentals]**
-   - (certifications/mastering_data_modeling_fundamentals.png) - Issued by [Udemy](https://seek.udemy.com/course/mastering-data-modeling-fundamentals/) - *Completed on March 5 2021*
+   - [Certification of Completion](certifications/mastering_data_modeling_fundamentals.png) - Issued by [Udemy](https://seek.udemy.com/course/mastering-data-modeling-fundamentals/) - *Completed on March 5 2021*
 1. **[Beginner's Guide to Data & Data Analytics, by SF Data School]**
-   - (certifications/beginners_guide_to_data_and_data_analytics_by_sf_data_school.png) - Issued by [Udemy](https://seek.udemy.com/course/learndata/) - *Completed on February 4 2021*
+   - [Certification of Completion](certifications/beginners_guide_to_data_and_data_analytics_by_sf_data_school.png) - Issued by [Udemy](https://seek.udemy.com/course/learndata/) - *Completed on February 4 2021*
 
 ### Soft Skills
 
