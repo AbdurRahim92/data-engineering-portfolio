@@ -46,7 +46,7 @@ I have earned the following certifications to enhance my data engineering skills
 13. **[Databricks Certified Data Engineer Professional -Preparation]**
     - [Certification of Completion](certifications/databricks_certified_data_engineer_professional_preparation.png) - Issued by [Udemy](https://seek.udemy.com/course/databricks-certified-data-engineer-professional/) - *Completed on May 18 2024*
 12. **[AWS Services For Data Engineering With Projects]**
-    - [Certification of Completion](certifications/aws_services_for_data_engineering_with_projects.png) - Issued by [Udemy](https://course.growdataskills.com/cohort/nYZNSj2iH8) - *Completed on May 18 2024*
+    - [Certification of Completion](certifications/aws_services_for_data_engineering_with_projects.png) - Issued by [GDS](https://course.growdataskills.com/cohort/nYZNSj2iH8) - *Completed on May 18 2024*
 11. **[Analytics Engineering Bootcamp]**
     - [Certification of Completion](certifications/analytics_engineering_bootcamp.png) - Issued by [Udemy](https://seek.udemy.com/course/analytics-engineering-bootcamp/) - *Completed on April 9 2024*
 10. **[Marketing Customer Analytics, Segmentation, and Targeting]**
@@ -76,7 +76,23 @@ I have earned the following certifications to enhance my data engineering skills
 
 I have also completed the following soft skills certifications to enhance my professional abilities:
 
-1. **[Negotiation Fundamentals: How To Negotiate Effectively]**
+09. **[Gain Practical Communication Skills with this Complete Guide]**
+   - [Certification of Completion](certifications/gain_practical_communication_skills_with_this_complete_guide.png) - Issued by [Udemy](https://seek.udemy.com/course/the-complete-communication-skills-masterclass-a-z-blueprint/) - *Completed on Nov 4 2023*
+08. **[Assertiveness 101: Become More Assertive in Just 90 Minutes]**
+   - [Certification of Completion](certifications/assertiveness_101_become_more_assertive_in_just_90_minutes.png) - Issued by [Udemy](https://seek.udemy.com/course/assertiveness-101-become-more-assertive-in-90-minutes/) - *Completed on Oct 3 2023*
+07. **[Anxiety and Stress - Best Practices for Reducing Stress]**
+   - [Certification of Completion](certifications/anxiety_and_stress_best_practices_for_reducing_stress.png) - Issued by [Udemy](https://seek.udemy.com/course/anxiety-and-stress/) - *Completed on May 27 2023*
+06. **[Smart Tips: Communication]**
+   - [Certification of Completion](certifications/smart_tips_communication.png) - Issued by [Udemy](https://seek.udemy.com/course/communicatebrilliantly/) - *Completed on Feb 10 2023*
+05. **[How to tell a story with data]**
+   - [Certification of Completion](certifications/how_to_tell_a_story_with_data.png) - Issued by [Udemy](https://seek.udemy.com/course/tell-a-story-with-data/) - *Completed on Sep 9 2021*
+04. **[Communication Fundamentals: How To Communicate Better]**
+   - [Certification of Completion](certifications/communication_fundamentals_how_to_communicate_better.png) - Issued by [Udemy](https://seek.udemy.com/course/communication-fundamentals-how-to-communicate-better/) - *Completed on Mar 6 2021*
+03. **[Productivity and Time Management for the Overwhelmed]**
+   - [Certification of Completion](certifications/productivity_and_time_management_for_the_overwhelmed.png) - Issued by [Udemy](https://seek.udemy.com/course/productivity-and-time-management/) - *Completed on Feb 26 2021*
+02. **[Emotional Intelligence at Work: Learn from Your Emotions]**
+   - [Certification of Completion](certifications/emotional_intelligence_at_work_learn_from_your_emotions.png) - Issued by [Udemy](https://seek.udemy.com/course/emotional-intelligence-at-work-learn-from-your-emotions/) - *Completed on Jan 25 2021*
+01. **[Negotiation Fundamentals: How To Negotiate Effectively]**
    - [Certification of Completion](certifications/negotiation_fundamentals_how_to_negotiate_effectively.png) - Issued by [Udemy](https://seek.udemy.com/course/negotiation-fundamentals/) - *Completed on Nov 20 2020*
 
 ## Contact
