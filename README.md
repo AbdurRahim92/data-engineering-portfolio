@@ -44,13 +44,13 @@ For more details, please refer to the [Project 1 README](project1/README.md).
 I have earned the following certifications to enhance my data engineering skills:
 
 13. **[Databricks Certified Data Engineer Professional -Preparation]**
-   - [Certification of Completion](certifications/databricks_certified_data_engineer_professional_preparation.png) - Issued by [Udemy](https://seek.udemy.com/course/databricks-certified-data-engineer-professional/) - *Completed on May 18 2024*
+    - [Certification of Completion](certifications/databricks_certified_data_engineer_professional_preparation.png) - Issued by [Udemy](https://seek.udemy.com/course/databricks-certified-data-engineer-professional/) - *Completed on May 18 2024*
 12. **[AWS Services For Data Engineering With Projects]**
-   - [Certification of Completion](certifications/aws_services_for_data_engineering_with_projects.png) - Issued by [Udemy](https://course.growdataskills.com/cohort/nYZNSj2iH8) - *Completed on May 18 2024*
+    - [Certification of Completion](certifications/aws_services_for_data_engineering_with_projects.png) - Issued by [Udemy](https://course.growdataskills.com/cohort/nYZNSj2iH8) - *Completed on May 18 2024*
 11. **[Analytics Engineering Bootcamp]**
-   - [Certification of Completion](certifications/analytics_engineering_bootcamp.png) - Issued by [Udemy](https://seek.udemy.com/course/analytics-engineering-bootcamp/) - *Completed on April 9 2024*
+    - [Certification of Completion](certifications/analytics_engineering_bootcamp.png) - Issued by [Udemy](https://seek.udemy.com/course/analytics-engineering-bootcamp/) - *Completed on April 9 2024*
 10. **[Marketing Customer Analytics, Segmentation, and Targeting]**
-   - [Certification of Completion](certifications/marketing_customer_analytics_segmentation_and_targeting.png) - Issued by [Udemy](hhttps://seek.udemy.com/course/learn-customer-analytics-market-segmentation-and-targeting/) - *Completed on Mar 15 2024*
+    - [Certification of Completion](certifications/marketing_customer_analytics_segmentation_and_targeting.png) - Issued by [Udemy](hhttps://seek.udemy.com/course/learn-customer-analytics-market-segmentation-and-targeting/) - *Completed on Mar 15 2024*
 9. **[Databricks Certified Data Engineer Associate - Preparation]**
    - [Certification of Completion](certifications/databricks_certified_data_engineer_associate_preparation.png) - Issued by [Udemy](https://seek.udemy.com/course/databricks-certified-data-engineer-associate/) - *Completed on Feb 27 2024*
 8. **[Data Warehouse - The Ultimate Guide]**
