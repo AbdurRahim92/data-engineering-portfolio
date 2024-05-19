@@ -63,7 +63,7 @@ I have earned the following certifications to enhance my data engineering skills
     - [Certification of Completion](certifications/ultimate_aws_certified_solutions_architect_associate_saa_c03.png) - Issued by [Udemy](https://seek.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) - *Completed on Nov 11 2023*
     - [Badge Link](https://www.credly.com/badges/c9368034-4c14-4378-807e-0033ba447364/public_url)
 04. **[Ultimate AWS Certified Cloud Practitioner CLF-C02]**
-   - [Certification of Completion](certifications/ultimate_aws_certified_cloud_practitioner_clf_c02.png) - Issued by [Udemy](https://seek.udemy.com/course/data-governance-fundamentals/) - *Completed on Nov 1 2023*
+    - [Certification of Completion](certifications/ultimate_aws_certified_cloud_practitioner_clf_c02.png) - Issued by [Udemy](https://seek.udemy.com/course/data-governance-fundamentals/) - *Completed on Nov 1 2023*
     - [Badge Link](https://www.credly.com/badges/28f76c44-cbc6-447a-987d-ad32b2ce8817/public_url)
 03. **[Data Governance Fundamentals]**
     - [Certification of Completion](certifications/data_governance_fundamentals.png) - Issued by [Udemy](https://seek.udemy.com/course/data-governance-fundamentals/) - *Completed on May 27 2023*
