@@ -43,8 +43,27 @@ For more details, please refer to the [Project 1 README](project1/README.md).
 
 I have earned the following certifications to enhance my data engineering skills:
 
+13. **[Databricks Certified Data Engineer Professional -Preparation]**
+   - [Certification of Completion](certifications/databricks_certified_data_engineer_professional_preparation.png) - Issued by [Udemy](https://seek.udemy.com/course/databricks-certified-data-engineer-professional/) - *Completed on May 18 2024*
+12. **[AWS Services For Data Engineering With Projects]**
+   - [Certification of Completion](certifications/aws_services_for_data_engineering_with_projects.png) - Issued by [Udemy](https://course.growdataskills.com/cohort/nYZNSj2iH8) - *Completed on May 18 2024*
+11. **[Analytics Engineering Bootcamp]**
+   - [Certification of Completion](certifications/analytics_engineering_bootcamp.png) - Issued by [Udemy](https://seek.udemy.com/course/analytics-engineering-bootcamp/) - *Completed on April 9 2024*
+10. **[Marketing Customer Analytics, Segmentation, and Targeting]**
+   - [Certification of Completion](certifications/marketing_customer_analytics_segmentation_and_targeting.png) - Issued by [Udemy](hhttps://seek.udemy.com/course/learn-customer-analytics-market-segmentation-and-targeting/) - *Completed on Mar 15 2024*
+9. **[Databricks Certified Data Engineer Associate - Preparation]**
+   - [Certification of Completion](certifications/databricks_certified_data_engineer_associate_preparation.png) - Issued by [Udemy](https://seek.udemy.com/course/databricks-certified-data-engineer-associate/) - *Completed on Feb 27 2024*
+8. **[Data Warehouse - The Ultimate Guide]**
+   - [Certification of Completion](certifications/data_warehouse_the_ultimate_guide.png) - Issued by [Udemy](https://seek.udemy.com/course/data-warehouse-the-ultimate-guide/) - *Completed on Feb 25 2024*
+7. **[Apache Spark 3 - Beyond Basics and Cracking Job Interviews]**
+   - [Certification of Completion](certifications/apache_spark_3_beyond_basics_and_cracking_job_interviews.png) - Issued by [Udemy](https://seek.udemy.com/course/apache-spark-3-beyond-basics/) - *Completed on Feb 4 2024*
+6. **[Databricks Certified Associate Developer - Apache Spark 2022]**
+   - [Certification of Completion](certifications/databricks_certified_associate_developer_apache_spark_2022.png) - Issued by [Udemy](https://seek.udemy.com/course/databricks-certified-associate-developer-for-apache-spark/) - *Completed on Jan 27 2024*
+5. **[Ultimate AWS Certified Solutions Architect Associate SAA-C03]**
+   - [Certification of Completion](certifications/ultimate_aws_certified_solutions_architect_associate_saa_c03.png) - Issued by [Udemy](https://seek.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) - *Completed on Nov 11 2023*
+   - [Badge Link](https://www.credly.com/badges/c9368034-4c14-4378-807e-0033ba447364/public_url)
 4. **[Ultimate AWS Certified Cloud Practitioner CLF-C02]**
-   - [Certification of Completion](certifications/ultimate_aws_certified_cloud_practitioner_clf_C02.png) - Issued by [Udemy](https://seek.udemy.com/course/data-governance-fundamentals/) - *Completed on Nov 1 2023*
+   - [Certification of Completion](certifications/ultimate_aws_certified_cloud_practitioner_clf_c02.png) - Issued by [Udemy](https://seek.udemy.com/course/data-governance-fundamentals/) - *Completed on Nov 1 2023*
    - [Badge Link](https://www.credly.com/badges/28f76c44-cbc6-447a-987d-ad32b2ce8817/public_url)
 3. **[Data Governance Fundamentals]**
    - [Certification of Completion](certifications/data_governance_fundamentals.png) - Issued by [Udemy](https://seek.udemy.com/course/data-governance-fundamentals/) - *Completed on May 27 2023*
@@ -56,6 +75,9 @@ I have earned the following certifications to enhance my data engineering skills
 ### Soft Skills
 
 I have also completed the following soft skills certifications to enhance my professional abilities:
+
+1. **[Negotiation Fundamentals: How To Negotiate Effectively]**
+   - [Certification of Completion](certifications/negotiation_fundamentals_how_to_negotiate_effectively.png) - Issued by [Udemy](https://seek.udemy.com/course/negotiation-fundamentals/) - *Completed on Nov 20 2020*
 
 ## Contact
 
