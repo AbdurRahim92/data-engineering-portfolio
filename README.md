@@ -21,7 +21,7 @@ This repository serves as a comprehensive showcase of my data engineering capabi
 
 ### Project 1: Gadget Sales Data Pipeline Projection with AWS
 
-**Description**: This project demonstrates the creation of an ETL pipeline using AWS cloud stach. The pipeline is designed to ingest data from a real time steaming sales data, transform the data using Python, and load it into a S3.
+**Description**: This project demonstrates the creation of an CDC data pipeline using AWS cloud stack. The pipeline is designed to ingest data from a near real time steaming sales data, transform the data using Python, and load it into a S3.
 
 **Technologies**: DynamoDB Stream, Event Bridge Pipe, Kinesis Stream, Kinesis Firehose, Lambda, S3, Glue Catalog, Athena
 
@@ -30,8 +30,8 @@ For more details, please refer to the [Project 1 README](project1-gadget-sales-d
 ## Technologies Used
 
 - **Programming Languages**: Python, SQL
-- **Data Warehousing**: 
-- **Data Pipelines**: Apache Airflow, 
+- **Data Warehousing**: S3
+- **Data Pipelines**: DynamoDB Stream, Event Bridge Pipe, Kinesis Stream, Firehose
 - **Cloud Services**: AWS
 - **Data Visualization**: Tableau, Quicksight, PowerBI
 - **Databases**: PostgreSQL, MSSQL, MySQl

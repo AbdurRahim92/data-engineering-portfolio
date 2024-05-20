@@ -38,3 +38,26 @@ By the end of this project, the system will be capable of handling real-time sal
 4. **Data Storage**: Amazon Kinesis Data Firehose delivers the transformed data to an Amazon S3 bucket for persistent storage.
 5. **Metadata Management**: AWS Glue Catalog continuously catalogs the data stored in S3, maintaining up-to-date schema and metadata information.
 6. **Data Analysis**: Amazon Athena enables users to perform serverless, ad-hoc queries on the data stored in S3 using standard SQL, providing quick and actionable insights into sales projections.
+
+## Q&A
+
+1. **Why do we need lambda transformation here?**
+   - Ans: Process data before it reach s3 such as remove, delete, enrich and etc.
+2. **Why we can’t use glue here?**
+   - Ans: This is simple data ingestion pipeline just to move data from application to s3. Glue is resource extensive. Beside, this project is just to process very little data maybe less than 100 records.
+3. **What is the use of DynamoDB?**
+   - Dynamodb stream allowing CDC such as update, insert and delete.
+
+## Troubleshooting
+
+1. **No module named 'boto3' Mac Terminal**
+   - Navigate to your project directory
+     cd path/to/your/project
+     
+   - Create a virtual environment
+     python3 -m venv venv
+     
+   - Activate the virtual environment
+     source venv/bin/activate
+
+   - pip install boto3
