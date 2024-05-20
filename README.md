@@ -11,6 +11,7 @@ Welcome to my Data Engineering Portfolio! This repository contains a collection 
 - [Certifications](#certifications)
   - [Technical Skills](#technical-skills)
   - [Soft Skills](#soft-skills)
+- [Interview Questions](#interview-questions)
 - [Contact](#contact)
 
 ## About
@@ -94,6 +95,13 @@ I have also completed the following soft skills certifications to enhance my pro
    - [Certification of Completion](certifications/emotional_intelligence_at_work_learn_from_your_emotions.png) - Issued by [Udemy](https://seek.udemy.com/course/emotional-intelligence-at-work-learn-from-your-emotions/) - *Completed on Jan 25 2021*
 01. **[Negotiation Fundamentals: How To Negotiate Effectively]**
    - [Certification of Completion](certifications/negotiation_fundamentals_how_to_negotiate_effectively.png) - Issued by [Udemy](https://seek.udemy.com/course/negotiation-fundamentals/) - *Completed on Nov 20 2020*
+
+## Interview Questions
+Here are some interview questions related to data engineering and related topics:
+
+- [Data Engineering](interview_questions/data_engineering.md)
+- [Python](interview_questions/python.md)
+- [SQL](interview_questions/sql.md)
 
 ## Contact
 
