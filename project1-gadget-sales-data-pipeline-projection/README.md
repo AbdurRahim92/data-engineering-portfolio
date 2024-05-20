@@ -50,7 +50,7 @@ By the end of this project, the system will be capable of handling real-time sal
 
 ## Troubleshooting
 
-1. **No module named 'boto3' Mac Terminal**
+1. **No module named 'boto3' Mac Terminal.**
    - Navigate to your project directory
      cd path/to/your/project
      
