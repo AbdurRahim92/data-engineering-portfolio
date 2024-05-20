@@ -25,7 +25,7 @@ This repository serves as a comprehensive showcase of my data engineering capabi
 
 **Technologies**: DynamoDB Stream, Event Bridge Pipe, Kinesis Stream, Kinesis Firehose, Lambda, S3, Glue Catalog, Athena
 
-For more details, please refer to the [Project 1 README](project1/README.md).
+For more details, please refer to the [Project 1 README](project1-gadget-sales-data-pipeline-projection/README.md).
 
 ## Technologies Used
 
