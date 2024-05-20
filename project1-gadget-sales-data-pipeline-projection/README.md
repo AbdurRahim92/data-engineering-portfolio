@@ -23,7 +23,7 @@ By the end of this project, the system will be capable of handling real-time sal
 ## Technologies and AWS Services Used
 
 - **Amazon DynamoDB Streams**: Used to capture real-time data changes in the DynamoDB table where sales transactions are recorded.
-- **Amazon Kinesis Data Streams**: Acts as the real-time data streaming service to process and analyze data on the fly.
+- **Amazon Kinesis Data Streams**: Acts as the real-time data streaming service as a medium to move the data to target.
 - **Amazon Kinesis Data Firehose**: Delivers real-time streaming data to destinations like Amazon S3 for further processing and analysis.
 - **AWS Lambda**: Provides serverless computing power to process data streams, execute transformation logic, and integrate with other AWS services without managing servers.
 - **Amazon S3**: Serves as the storage layer for processed data, ensuring durability and easy access for downstream analytics.
@@ -33,7 +33,7 @@ By the end of this project, the system will be capable of handling real-time sal
 ## Pipeline Workflow
 
 1. **Data Ingestion**: Sales transactions are captured in a DynamoDB table. DynamoDB Streams track changes in real-time.
-2. **Stream Processing**: Changes in the DynamoDB table trigger DynamoDB Streams, which then push the data into Amazon Kinesis Data Streams for real-time processing.
+2. **Stream Processing**: Changes in the DynamoDB table trigger DynamoDB Streams, which then push the data into Amazon Kinesis Data Streams. Kinesis Stream acts as a medium to move the data from source to target. For this case is Kinesis Firehose
 3. **Data Transformation**: AWS Lambda functions consume data from Kinesis Data Firehorse, apply necessary transformations, and send back the processed data to Amazon Kinesis Data Firehose.
 4. **Data Storage**: Amazon Kinesis Data Firehose delivers the transformed data to an Amazon S3 bucket for persistent storage.
 5. **Metadata Management**: AWS Glue Catalog continuously catalogs the data stored in S3, maintaining up-to-date schema and metadata information.
@@ -60,4 +60,4 @@ By the end of this project, the system will be capable of handling real-time sal
    - Activate the virtual environment
      source venv/bin/activate
 
-   - pip install boto3
+   - pip install 
