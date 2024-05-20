@@ -60,4 +60,4 @@ By the end of this project, the system will be capable of handling real-time sal
    - Activate the virtual environment
      source venv/bin/activate
 
-   - pip install 
+   - pip install boto3
