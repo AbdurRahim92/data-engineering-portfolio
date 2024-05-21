@@ -2,4 +2,4 @@
 
 ## Description
 
-This project focuses on building a near real-time sales gadget projection system utilizing a comprehensive AWS stack. The primary goal is to create a scalable and efficient pipeline that processes sales data in real-time, providing instant insights and projections. The project leverages various AWS services to achieve this, ensuring data is ingested, processed, stored, and analyzed seamlessly.
+This project focus on building a data warehouse using Kimball methodology. End to end step will be using to come out with data warehouse.

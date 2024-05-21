@@ -31,9 +31,9 @@ For more details, please refer to the [Project 1 README](project1-gadget-sales-d
 
 ### Project 2: Building A Dimensional Data Warehouse
 
-**Description**: This project demonstrates the creation of an CDC data pipeline using AWS cloud stack. The pipeline is designed to ingest data from a near real time steaming sales data, transform the data using Python, and load it into a S3.
+**Description**: This project focus on building a data warehouse using Kimball methodology. End to end step will be using to come out with data warehouse.
 
-**Technologies**: DynamoDB Stream, Event Bridge Pipe, Kinesis Stream, Kinesis Firehose, Lambda, S3, Glue Catalog, Athena
+**Technologies**: 
 
 For more details, please refer to the [Project 2 README](project-2-building-a-dimensional-data-warehouse/README.md).
 
