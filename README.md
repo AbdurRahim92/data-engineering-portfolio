@@ -35,7 +35,7 @@ For more details, please refer to the [Project 1 README](project1-gadget-sales-d
 
 **Technologies**: 
 
-For more details, please refer to the [Project 2 README](project-2-building-a-dimensional-data-warehouse/README.md).
+For more details, please refer to the [Project 2 README](project2-building-a-dimensional-data-warehouse/README.md).
 
 ## Technologies Used
 
