@@ -31,7 +31,7 @@ For more details, please refer to the [Project 1 README](project1-gadget-sales-d
 
 ### Project 2: Building A Dimensional Data Warehouse
 
-**Description**: This project focus on building a data warehouse using Kimball methodology. End to end step will be using to come out with data warehouse.
+**Description**: This project focus on building a data warehouse using Kimball methodology. End to end step will present here.
 
 **Technologies**: 
 

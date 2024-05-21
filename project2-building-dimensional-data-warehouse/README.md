@@ -2,4 +2,4 @@
 
 ## Description
 
-This project focus on building a data warehouse using Kimball methodology. End to end step will be using to come out with data warehouse.
+This project focus on building a data warehouse using Kimball methodology. End to end step will present here.
