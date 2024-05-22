@@ -23,11 +23,11 @@ This project focus on building a data warehouse using Kimball methodology. End t
        - 3.1.4 Identift the facts
    - 3.2 [Bus Metric Grain defined.](3.2-bus-metric-detail.png)
    - 3.3 Source to Target Document.
-       - 3.3.1 Source to Postgres DataLake
-       - 3.3.2 Postgres Datalake to Staging
-       - 3.3.3 Datalake Staging to Data Warehouse
-       - 3.3.4 Data Warehouse to OBT
-   - 3.4 Create Logical Model.
-   - 3.5 Create Physical Model.
+       - 3.3.1 [Source to Postgres DataLake](project2-building-a-dimensional-data-warehouse/3.3.1-source-to-postgres-dataLake.png)
+       - 3.3.2 [Postgres Datalake to Staging](project2-building-a-dimensional-data-warehouse/3.3.2-datalake-to-staging.png)
+       - 3.3.3 [Datalake Staging to Data Warehouse](project2-building-a-dimensional-data-warehouse/3.3.3-staging-to-dwh.png)
+       - 3.3.4 [Data Warehouse to OBT](project2-building-a-dimensional-data-warehouse/3.3.4-dwh-to-obt.png)
+   - 3.4 [Create Logical Model.](project2-building-a-dimensional-data-warehouse/3.4-logical-model.png)
+   - 3.5 [Create Physical Model.](project2-building-a-dimensional-data-warehouse/3.5-physical-model.png)
 
 
