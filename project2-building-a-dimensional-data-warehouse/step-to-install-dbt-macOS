@@ -1,0 +1,27 @@
+## To set up dbt (Data Build Tool) on macOS, you can follow these steps:
+## https://docs.getdbt.com/docs/core/installation-overview
+## https://docs.getdbt.com/docs/core/pip-install
+## https://softwarevipra.medium.com/dbt-data-build-tool-setup-on-mac-c3dbe3e6872f
+
+
+Step:1 Create a new venv:
+    - python -m venv dbt-env # create the environment
+
+Step:2 Activate that same virtual environment each time you create a shell window or session:
+    - source dbt-env/bin/activate # activate the environment for Mac and Linux OR
+
+Step:3 Installing adapter:
+    - python -m pip install \
+      dbt-core \
+      dbt-postgres
+
+Step:4 Test the installed dbt:
+    - dbt --version
+
+Step:5 Init dbt project:
+    - dbt init my_postgres_db
+
+Step:6 Follow the instruction to configure connection:
+
+Step:7 Test the connection:
+    - dbt debug
