@@ -29,5 +29,3 @@ This project focus on building a data warehouse using Kimball methodology. End t
        - 3.3.4 [Data Warehouse to OBT](project2-building-a-dimensional-data-warehouse/3.3.4-dwh-to-obt.png)
    - 3.4 [Create Logical Model.](project2-building-a-dimensional-data-warehouse/3.4-logical-model.png)
    - 3.5 [Create Physical Model.](project2-building-a-dimensional-data-warehouse/3.5-physical-model.png)
-
-
