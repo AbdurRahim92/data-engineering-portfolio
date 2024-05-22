@@ -33,14 +33,14 @@ For more details, please refer to the [Project 1 README](project1-gadget-sales-d
 
 **Description**: This project focus on building a data warehouse using Kimball methodology. End to end step will present here.
 
-**Technologies**: 
+**Technologies**: postgres, dbt
 
 For more details, please refer to the [Project 2 README](project2-building-a-dimensional-data-warehouse/README.md).
 
 ## Technologies Used
 
 - **Programming Languages**: Python, SQL
-- **Data Warehousing**: S3, Kimball
+- **Data Warehousing**: S3, Kimball, OBT
 - **Data Pipelines**: DynamoDB Stream, Event Bridge Pipe, Kinesis Stream, Firehose
 - **Cloud Services**: AWS
 - **Data Visualization**: Tableau, Quicksight, PowerBI
