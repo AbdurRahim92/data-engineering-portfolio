@@ -1,0 +1,14 @@
+Step 1: Download the file https://www.postgresql.org/ftp/pgadmin/pgadmin4/v7.8/macos/
+Step 2: Install downloaded file with admin right.
+Step 3: Open pgAdmin4.
+Step 4: From terminal run below code
+    # Use a Different Directory because no right to write in default /usr/local/var/postgres
+    Step 4.1: mkdir -p ~/postgres_data
+    Step 4.2: initdb ~/postgres_data
+    # Steps to Start PostgreSQL Using Homebrew with a Custom Data Directory
+    Step 4.3: brew services stop postgresql # Stop the Existing PostgreSQL Service
+    Step 4.4: pg_ctl -D ~/postgres_data start # Start PostgreSQL with the Custom Data Directory
+    Step 4.5: psql -d postgres # Connect to PostgreSQL
+    Step 4.6: CREATE ROLE postgres WITH LOGIN SUPERUSER CREATEDB CREATEROLE PASSWORD 'your_password'; # Inside the psql terminal, create the postgres role
+    Step 4.7: \q # Exit the postgresql terminal
+Step 5: Done

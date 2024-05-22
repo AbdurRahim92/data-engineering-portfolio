@@ -1,0 +1,19 @@
+1. Understanding the tables.
+   1.1 Relationships between tables.
+   1.2 Table schema.
+   1.3 Correct datatype.
+   1.4 Any problem with the data which might impact dimensional modelling process.
+   1.5 Identify needed table to continue building dimensional datawarehouse.
+   1.6 Take note all the problem found above.
+
+For this case.
+Identified tables that need to build DW as below.
+- customer - Customers by food from Northwind.
+- employees - Works for Northwind.
+- orders - Sales Order transactions taking place between the customers & Northwind.
+- order_details - Order Details for the Orders placed by customer.
+- inventory_transaction - Transaction details of each inventory.
+- products - Contains current Northwind products that customers can purchase.
+- shippers - Ships orders from Northwind to customers.
+- suppliers - Supply Northwind with required items.
+- invoices - Invoice created for each order.

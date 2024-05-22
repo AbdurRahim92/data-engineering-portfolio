@@ -1,0 +1,6 @@
+Step to design conceptual model.
+
+1. Reference bus metric business process.
+2. Sales Overview and Sales Agent business process can be combine because they are about the same.
+3. Create 3 distinct entities, fact_sales, fact_inventory and fact_purchase order.
+4. Order tables are now become fact sales and will skipp that.
