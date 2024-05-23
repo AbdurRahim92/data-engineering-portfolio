@@ -4,4 +4,6 @@
 WITH source AS (
     SELECT * FROM {{ source('northwind', 'strings')}}
 )
-SELECT * FROM source
+SELECT * 
+, CURRENT_TIMESTAMP AS ingestion_timestamp
+FROM source
