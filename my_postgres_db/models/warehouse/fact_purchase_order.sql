@@ -23,6 +23,7 @@ WITH source AS (
        po.expected_date,
        po.shipping_fee,
        po.taxes,
+       po.payment_amount,
        po.payment_date,
        po.payment_method,
        po.notes,
