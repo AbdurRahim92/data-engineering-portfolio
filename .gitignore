@@ -3,4 +3,7 @@
 .DS_Store
 dbt-env/
 logs/
-my_postgres_db/
+my_postgres_db/target/
+my_postgres_db/dbt_packages/
+my_postgres_db/logs/
+my_postgres_db/.gitignore
