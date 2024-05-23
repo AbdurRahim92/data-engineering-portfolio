@@ -29,3 +29,4 @@ Step:7 Test the connection:
 ## dbt basic command
 ## dbt run
 ## dbt run --full-refresh to run all over again
+## dbt run -m staging.stg_customer to update specific table
