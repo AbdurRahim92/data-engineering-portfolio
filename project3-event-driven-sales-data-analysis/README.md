@@ -52,13 +52,14 @@ Step 4 - Add MAP State
 
 Step 5 - Add Lambda
 
-    5.1 Add function name
-    5.2 Output
+    5.1 Create lambda function
+    5.2 Add function name
+    5.3 Output
         {
         "contact-info.$": "$.Payload.contact-info",
         "order-info.$": "$.Payload.order-info"
         }
-    5.3 Error Handling
+    5.4 Error Handling
         -Edit Catch errors
         -Choose Erros 'States.TaskFailed'
         -Choose Fallback state 'SQS SendMessage'
