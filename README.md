@@ -37,6 +37,14 @@ For more details, please refer to the [Project 1 README](project1-gadget-sales-d
 
 For more details, please refer to the [Project 2 README](project2-building-a-dimensional-data-warehouse/README.md).
 
+### Project 3: Building Event Driven Sales Data Analysis
+
+**Description**: Process, analyse and validate the orders data with/without contact information and ingest it in DynamoDB
+
+**Technologies**: Python, S3, Event Bridge Pattern, Step Function, Lambda, SQS, DynamoDB
+
+For more details, please refer to the [Project 3 README](project3-event-driven-sales-data-analysis/README.md).
+
 ## Technologies Used
 
 - **Programming Languages**: Python, SQL
@@ -44,8 +52,9 @@ For more details, please refer to the [Project 2 README](project2-building-a-dim
 - **Data Pipelines**: DynamoDB Stream, Event Bridge Pipe, Kinesis Stream, Firehose
 - **Cloud Services**: AWS
 - **Data Visualization**: Tableau, Quicksight, PowerBI
-- **Databases**: PostgreSQL, MSSQL, MySQl
-- **Others**: Docker, Git
+- **Orchestration Tool**: Step Function, Airflow
+- **Databases**: PostgreSQL, MSSQL, MySQl, DynamoDB
+- **Others**: Docker, Git, Lambda, SQS, Event Bridge, Athena
 
 ## Certifications
 
@@ -86,6 +95,8 @@ I have earned the following certifications to enhance my data engineering skills
 
 I have also completed the following soft skills certifications to enhance my professional abilities:
 
+10. **[Conscious Listening]**
+   - [Certification of Completion](certifications/conscious_listening.png) - Issued by [Udemy](https://www.udemy.com/course/conscious-listening/) - *Completed on June 8 2024*
 09. **[Gain Practical Communication Skills with this Complete Guide]**
    - [Certification of Completion](certifications/gain_practical_communication_skills_with_this_complete_guide.png) - Issued by [Udemy](https://www.udemy.com/course/the-complete-communication-skills-masterclass-a-z-blueprint/) - *Completed on Nov 4 2023*
 08. **[Assertiveness 101: Become More Assertive in Just 90 Minutes]**
