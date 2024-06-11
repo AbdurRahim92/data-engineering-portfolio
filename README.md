@@ -7,7 +7,7 @@ Welcome to my Data Engineering Portfolio! This repository contains a collection 
 - [About](#about)
 - [Projects](#projects)
   - [Project 1: Gadget Sales Data Pipeline Projection with AWS](#project-1-gadget-sales-data-pipeline-projection-with-aws)
-  - [Project 2: Building A Dimensional Data Warehouse](#project-2-building-a-dimensional-data-warehouse)
+  - [Project 2: Building A Dimensional Data Warehouse with DBT](#project-2-building-a-dimensional-data-warehouse-with-dbt)
   - [Project 3: Building Event Driven Sales Data Analysis with AWS](#project-3-building-event-driven-sales-data-analysis-with-aws)
 - [Technologies Used](#technologies-used)
 - [Certifications](#certifications)
