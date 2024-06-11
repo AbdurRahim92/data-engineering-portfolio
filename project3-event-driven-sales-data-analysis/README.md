@@ -7,6 +7,7 @@ Step to develop this project (Manual)
 Step 1 - Create Step Function
 
 Step 2 - Create Amazon Eventbridge Rule Pattern.
+
     2.1 Create Rule
     2.2 Put name 
     2.3 Rule Type 'Rule with an event pattern'
@@ -26,9 +27,9 @@ Step 2 - Create Amazon Eventbridge Rule Pattern.
 In Step function workflow
 
 Step 3 - Add S3 Get object 
+
     3.1 - Create S3 bucket
             Turn ON Amazon EventBridge. s3-properties-Amazon EventBridge
-
     3.2 - Assign this value to API parameters
             {
             "Bucket.$": "$.detail.bucket.name",
@@ -41,6 +42,7 @@ Step 3 - Add S3 Get object
                 }
 
 Step 4 - Add MAP State
+
     4.1 Select 'Provide a path to items array - optional'
             $.orders
     4.2 Select 'Set concurrency limit - optional' and put 5
@@ -49,6 +51,7 @@ Step 4 - Add MAP State
             $.detail
 
 Step 5 - Add Lambda
+
     5.1 Add function name
     5.2 Output
         {
@@ -62,6 +65,7 @@ Step 5 - Add Lambda
         -Choose ResultPath - optional 'Discard result and keep original input'
 
 Step 6 - Add DynamoDB Put Item
+
     6.1 API Parameters
         {
             "TableName": "temp-table",
@@ -85,4 +89,5 @@ Step 6 - Add DynamoDB Put Item
         }
 
 Step 7 - Add SQS
+
     7.1 - Add Queue URL
