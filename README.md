@@ -29,7 +29,7 @@ This repository serves as a comprehensive showcase of my data engineering capabi
 
 For more details, please refer to the [Project 1 README](project1-gadget-sales-data-pipeline-projection/README.md).
 
-### Project 2: Building A Dimensional Data Warehouse
+### Project 2: Building A Dimensional Data Warehouse with DBT
 
 **Description**: This project focus on building a data warehouse using Kimball methodology. End to end step will present here.
 
@@ -37,7 +37,7 @@ For more details, please refer to the [Project 1 README](project1-gadget-sales-d
 
 For more details, please refer to the [Project 2 README](project2-building-a-dimensional-data-warehouse/README.md).
 
-### Project 3: Building Event Driven Sales Data Analysis
+### Project 3: Building Event Driven Sales Data Analysis with AWS
 
 **Description**: Process, analyse and validate the orders data with/without contact information and ingest it in DynamoDB
 
