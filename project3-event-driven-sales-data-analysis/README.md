@@ -27,7 +27,7 @@ In Step function workflow
 
 Step 3 - Add S3 Get object 
     3.1 - Create S3 bucket
-        3.1.1 - Turn ON Amazon EventBridge. s3-properties-Amazon EventBridge
+            Turn ON Amazon EventBridge. s3-properties-Amazon EventBridge
 
     3.2 - Assign this value to API parameters
             {
