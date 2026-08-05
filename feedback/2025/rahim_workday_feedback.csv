@@ -1,0 +1,32 @@
+﻿Questions,Name,Comment
+How has the individual added value to you and/or your team? Please provide examples for context.,Yu Jie Mang,"Rahim has provided a lot of help to both my onboarding and ongoing growth as a Senior Data Engineer. When I first joined the team, he guided me patiently through our tech stack, helping me understand tools such as Airflow, AWS Glue, and PySpark. He provided hands-on support when I encountered issues and took the time to explain the reasons to me. We also worked closely in the Ad Gap project, and we are able to deliver the project successfully."
+,Rajabalaji Rajaramani,His contribution to AdGap project and importance of AdGap to SEEK is exceptional. With addressing challenges with account matching to override ATA value was implemented efficiently.
+,Issamuddin,"He has been very essential in drafting new projects and checking existing logic. His analytical mind have been very sharp this past year, communication skills have drastically improve and have been easier to apply teamwork when working with him."
+,,
+,Chee Sean Wong,"Rahim is always the go-to person for marketplace datasets as he has in depth knowledge and understanding of them. He always takes initiatives to know and understand more about all the projects and issues related to ICAS even when those tasks are not assigned to him. Besides that, he is also not reluctant to give feedback/suggestions based on his experience so that the team can come up with better solutions."
+,Atif Shaikh,Rahim developed several components of the AdGap project including the Preferred Account Enricher and core tables for the Marketshare Data Product.
+What can the individual do to be more effective in their role? Please provide examples for context.,Yu Jie Mang,"He is already highly effective in his role, especially in mentoring and technical delivery. The only possible area for further impact could be expanding his influence by proactively sharing knowledge more broadly. Given his depth of experience, this could help scale his expertise beyond 1-on-1 interactions, and able to help other team members as well."
+,,
+,Rajabalaji Rajaramani,"Identify process improvement on our scraping infra based on knowledge he currently poses, which will make our scraping platforms efficient and easy to fix."
+,Issamuddin,"He has improved significantly, can't see anything needs improvements as of now"
+,,
+,Chee Sean Wong,So far Rahim has done a great job in my opinion.
+,Atif Shaikh,"I feel Rahim has considerably improved this year, he is able to more independently and has gained further knowledge on our data domain and business rules. I'd wish he continues learning more about our data as I believe he can also taken on design activities and become a highly valuable data engineer."
+,,Id also recommend him to continue writing content pieces on solution design and specs as that helps save significant time and involvement of others and lets him stand out as a senior and accomplished engineer.
+Highlight any examples of how the individual has demonstrated Our SEEK principles and behaviours.,Yu Jie Mang,Passion
+,,He demonstrates a strong passion for helping others succeed and for building high-quality data solutions. His energy and dedication were evident during the Ad Gap project delivery.
+,,Team
+,,"He shows patience when supporting and helping other team members, especially new joiners. He builds trust through clear communication and a willingness to help."
+,,Delivery
+,,"He consistently takes ownership of his work and helps the team overcome blockers, even under tight deadlines."
+,,Future
+,,"He encourages learning by explaining complex topics in a clear and approachable way, helping others to grow and think long term."
+,Rajabalaji Rajaramani,"Rahim always eager share his knowledge to new joiner in ICAS team, being able to pick up multiple tasks whenever team is swapped with tasks"
+,Issamuddin,Future: always look into the future in every project and how to implement these changes incrementally
+,,Delivery: have been always deliver work above par
+,,Teamwork: Very good in communicating and work with him
+,Chee Sean Wong,Rahim has demonstrated Team behaviour. He always makes himself available for other team members when they needed help and willing to share his experience with them while building data pipelines / scraping from new competitor websites. His caring for the team has made a significant impact on the team success.
+,Atif Shaikh,Rahim delivered AdGap on tight deadlines and excelled in Delivery. I also noticed he has been thinking about future proofing our products in the way he walked through the scraper signals around free/paid and the preferred account enricher.
+Any other comments or examples you would like to share?,Yu Jie Mang,"I'm grateful for the support he provided when I joined the team, it made a huge difference in my onboarding experience and my transition into the Data Engineer role. He is approachable, knowledgeable, and always willing to help. His collaborative mindset and technical expertise make him a valuable asset to the team and a great mentor."
+,,
+,Rajabalaji Rajaramani,"ICAS team should focus on observability of our scraping pipeline efficiency and its cost for better visibility to LT, so that we efficiently allocate resources for our scrapping platform in FY26. Also open to adapt new tools and technologies, reduce tech debt."
