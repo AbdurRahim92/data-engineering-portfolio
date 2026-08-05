@@ -71,7 +71,7 @@ I have organized my certifications by year to reflect recent updates.
 
 ### 2026
 
-- **Project Management Professional (PMP)®** (Technical)
+- **Project Management Professional (PMP)®** (Professional)
     - [Certificate](certifications/2026/Project%20Management%20Professional%20%28PMP%29%C2%AE.pdf)
 - **Fundamentals of Machine Learning and Artificial Intelligence** (Technical)
     - [Certificate](certifications/2026/Fundamentals%20of%20Machine%20Learning%20and%20Artificial%20Intelligence.pdf)
